@@ -1,0 +1,12 @@
+{
+  "name": "freecall-server",
+  "version": "1.0.0",
+  "description": "Node.js signaling server for FreeCall app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
